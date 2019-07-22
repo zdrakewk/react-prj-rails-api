@@ -1,3 +1,4 @@
+# create wpostgres BD: rails new myapp —api —database=postgresql
 # SQLite version 3.x
 #   gem install sqlite3
 #
